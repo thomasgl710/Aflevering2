@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace _2Aflevering
+namespace NUnitTest
 {
     public class Tests
     {

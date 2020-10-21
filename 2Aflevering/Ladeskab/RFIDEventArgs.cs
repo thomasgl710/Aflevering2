@@ -6,6 +6,6 @@ namespace Ladeskab
 {
     public class RFIDEventArgs : EventArgs
     {
-        public double RFID { get; set; }
+        public int RFID { get; set; }
     }
 }

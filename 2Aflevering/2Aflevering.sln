@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Aflevering", "2Aflevering\2Aflevering.csproj", "{8B478B1E-F581-404D-9EBD-9529F11A7886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTest", "2Aflevering\NUnitTest.csproj", "{8B478B1E-F581-404D-9EBD-9529F11A7886}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ladeskab", "Ladeskab\Ladeskab.csproj", "{093911A9-CCAD-4FCB-9DF5-8CF75CA9E889}"
 EndProject
