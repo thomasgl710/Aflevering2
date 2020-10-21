@@ -43,5 +43,15 @@ namespace _2Aflevering
         }
 
 
+
     }
+
+    interface IChargeControl
+    {
+        private void HandleCurrentEvent(object s, CurrentEventArgs e)
+        {
+            
+        }
+    }
+   
 }
